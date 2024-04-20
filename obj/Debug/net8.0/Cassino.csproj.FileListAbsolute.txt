@@ -1,0 +1,28 @@
+C:\Users\luca3\Programas\Estudos\C#\Cassino\bin\Debug\net8.0\Cassino.exe
+C:\Users\luca3\Programas\Estudos\C#\Cassino\bin\Debug\net8.0\Cassino.deps.json
+C:\Users\luca3\Programas\Estudos\C#\Cassino\bin\Debug\net8.0\Cassino.runtimeconfig.json
+C:\Users\luca3\Programas\Estudos\C#\Cassino\bin\Debug\net8.0\Cassino.dll
+C:\Users\luca3\Programas\Estudos\C#\Cassino\bin\Debug\net8.0\Cassino.pdb
+C:\Users\luca3\Programas\Estudos\C#\Cassino\obj\Debug\net8.0\Cassino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca3\Programas\Estudos\C#\Cassino\obj\Debug\net8.0\Cassino.AssemblyInfoInputs.cache
+C:\Users\luca3\Programas\Estudos\C#\Cassino\obj\Debug\net8.0\Cassino.AssemblyInfo.cs
+C:\Users\luca3\Programas\Estudos\C#\Cassino\obj\Debug\net8.0\Cassino.csproj.CoreCompileInputs.cache
+C:\Users\luca3\Programas\Estudos\C#\Cassino\obj\Debug\net8.0\Cassino.dll
+C:\Users\luca3\Programas\Estudos\C#\Cassino\obj\Debug\net8.0\refint\Cassino.dll
+C:\Users\luca3\Programas\Estudos\C#\Cassino\obj\Debug\net8.0\Cassino.pdb
+C:\Users\luca3\Programas\Estudos\C#\Cassino\obj\Debug\net8.0\Cassino.genruntimeconfig.cache
+C:\Users\luca3\Programas\Estudos\C#\Cassino\obj\Debug\net8.0\ref\Cassino.dll
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\bin\Debug\net8.0\Cassino.exe
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\bin\Debug\net8.0\Cassino.deps.json
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\bin\Debug\net8.0\Cassino.runtimeconfig.json
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\bin\Debug\net8.0\Cassino.dll
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\bin\Debug\net8.0\Cassino.pdb
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\obj\Debug\net8.0\Cassino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\obj\Debug\net8.0\Cassino.AssemblyInfoInputs.cache
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\obj\Debug\net8.0\Cassino.AssemblyInfo.cs
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\obj\Debug\net8.0\Cassino.csproj.CoreCompileInputs.cache
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\obj\Debug\net8.0\Cassino.dll
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\obj\Debug\net8.0\refint\Cassino.dll
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\obj\Debug\net8.0\Cassino.pdb
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\obj\Debug\net8.0\Cassino.genruntimeconfig.cache
+C:\Users\luca3\Programas\Estudos\C#\Jogo de Dados\obj\Debug\net8.0\ref\Cassino.dll
